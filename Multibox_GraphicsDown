@@ -1,0 +1,9 @@
+/console maxFPS 15
+/console farclip 177
+/console spellEffectLevel 0
+/console SmallCull 0.07
+/console groundEffectDensity 16
+/console groundEffectDist 70
+/console weatherDensity 0
+/console ffxGlow 0
+/console shadowLOD 0
